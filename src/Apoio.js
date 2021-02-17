@@ -37,20 +37,20 @@ export default class Doar extends React.Component {
 
                     <View style={styles.div}>
                         <Image source={Fbr} style={{ margin: 20 }}></Image>
-                        <Text style={{ fontSize: 18, marginBottom: 15, padding: 1, textAlign: 'justify' }}>
+                        <Text style={{ fontSize: 18, marginBottom: 15, paddingLeft: 5, textAlign: 'center' }}>
                             Criada em 5 de Maio de 2017, por Fabio Batista Rodrigues, especialista no seguimento ortopédico com uma sólida experiência de mais de 10 anos.
                             </Text>
-                            <Text style={{ fontSize: 18, marginBottom: 15, padding: 1, textAlign: 'justify' }}>
+                            <Text style={{ fontSize: 18, marginBottom: 15, paddingLeft: 5, textAlign: 'center' }}>
                             O histórico de seu fundador é marcado pelas inúmeras aulas, exposições e palestras ministradas nacionalmente e internacionalmente.
                             </Text>
-                            <Text style={{ fontSize: 18, marginBottom: 15, padding: 1, textAlign: 'justify' }}>
+                            <Text style={{ fontSize: 18, marginBottom: 15, paddingLeft: 5, textAlign: 'center' }}>
                             A filosofia está associada a maneira humanizada do atendimento, por meio de uma assistência cuidadosa e focada no bem-estar do indivíduo. Reconhecendo assim, a importância e valorizando a vida.
                             </Text>
-                            <Text style={{ fontSize: 18, marginBottom: 15, padding: 1, textAlign: 'justify', color: 'red' }}>
+                            <Text style={{ fontSize: 18, marginBottom: 15, paddingLeft: 5, textAlign: 'center', color: 'red' }}>
                             *** Caso você durante uma compra, tanto na loja fisica como na online, citar o nome da Doeki, irá automaticamente
                             ganhar um desconto de 20%!!! ***
                             </Text>
-                            <Text style={{ fontSize: 18, marginBottom: 15, padding: 1, textAlign: 'justify' }}>
+                            <Text style={{ fontSize: 18, marginBottom: 15, paddingLeft: 5, textAlign: 'center' }}>
                                 Para saber mais acesse o site: www.fbrortopedia.com.br ou ligue para o telefone: (11)98213-0054.
                             </Text>
                     </View>
